@@ -74,8 +74,7 @@ uvicorn main:app --reload
 The API will be available at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Instructions to Test Endpoints
-1. Save the script: Save the above code in a file named `test_api.sh`.
-2. Make it executable: Run the following command in your terminal:
+1. Make it executable: Run the following command in your terminal:
    ```bash
    chmod +x test_api.sh
    ```
